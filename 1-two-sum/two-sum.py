@@ -5,9 +5,14 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for i in range(len(nums) - 1):
-            for j in range(i + 1, len(nums)):
-                if nums[i] + nums[j] == target:
-                    return [i, j]
-                
-        return [] 
+        map = {}
+        n = len(nums)
+
+        for i in range(n):
+            complement = target - nums[i]
+            if complement in map:
+                return[map[complement], i]
+            else:
+                map[nums[i]] = i
+        return []
+   
