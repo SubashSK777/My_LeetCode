@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/counting-words-with-a-given-prefix">Counting Words With a Given Prefix</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array of strings <code>words</code> and a string <code>pref</code>.</p>
+<h2><a href="https://leetcode.com/problems/counting-words-with-a-given-prefix">2292. Counting Words With a Given Prefix</a></h2><h3>Easy</h3><hr><p>You are given an array of strings <code>words</code> and a string <code>pref</code>.</p>
 
 <p>Return <em>the number of strings in </em><code>words</code><em> that contain </em><code>pref</code><em> as a <strong>prefix</strong></em>.</p>
 
