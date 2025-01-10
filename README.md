@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0952-word-subsets](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0952-word-subsets](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0952-word-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +25,8 @@
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0952-word-subsets](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0952-word-subsets) |
 <!---LeetCode Topics End-->
