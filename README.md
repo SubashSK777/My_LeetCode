@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1019-squares-of-a-sorted-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -14,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
