@@ -8,6 +8,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0952-word-subsets](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2058-concatenation-of-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0952-word-subsets) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
