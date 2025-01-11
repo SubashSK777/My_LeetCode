@@ -40,8 +40,13 @@
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Counting
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
+## Math
+|  |
+| ------- |
+| [2715-k-items-with-the-maximum-sum](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
