@@ -9,6 +9,7 @@
 | [0952-word-subsets](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,5 +49,10 @@
 ## Math
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/2715-k-items-with-the-maximum-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
