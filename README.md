@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,8 +31,17 @@
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+## Greedy
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/SubashSK777/LeetCode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
