@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SubashSK777/My_LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/SubashSK777/My_LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SubashSK777/My_LeetCode/tree/master/0217-contains-duplicate) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SubashSK777/My_LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SubashSK777/My_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SubashSK777/My_LeetCode/tree/master/0242-valid-anagram) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -32,8 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SubashSK777/My_LeetCode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0344-reverse-string) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SubashSK777/My_LeetCode/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
