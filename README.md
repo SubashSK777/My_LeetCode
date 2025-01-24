@@ -34,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/SubashSK777/My_LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SubashSK777/My_LeetCode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SubashSK777/My_LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/SubashSK777/My_LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
@@ -43,6 +44,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/SubashSK777/My_LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/SubashSK777/My_LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SubashSK777/My_LeetCode/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/SubashSK777/My_LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
