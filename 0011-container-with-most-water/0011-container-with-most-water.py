@@ -6,7 +6,7 @@ class Solution:
         maxi = 0
 
         while l < r:
-            mini = min(height[l], height[r])
+            mini = height[l] if height[l] < height[r] else height[r]
 
             dist = r - l
             maxi = max(maxi, (mini * dist))
