@@ -9,7 +9,7 @@ class Solution:
             mini = height[l] if height[l] < height[r] else height[r]
 
             dist = r - l
-            maxi = max(maxi, (mini * dist))
+            maxi = maxi if maxi > (mini * dist) else (mini * dist)
 
             if height[l] < height[r]:
                 l += 1
