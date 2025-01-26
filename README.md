@@ -10,6 +10,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubashSK777/My_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SubashSK777/My_LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SubashSK777/My_LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/SubashSK777/My_LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/SubashSK777/My_LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SubashSK777/My_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -46,6 +47,7 @@
 | [0125-valid-palindrome](https://github.com/SubashSK777/My_LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubashSK777/My_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/SubashSK777/My_LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SubashSK777/My_LeetCode/tree/master/0392-is-subsequence) |
