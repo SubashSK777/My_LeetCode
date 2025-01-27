@@ -16,6 +16,7 @@
 | [0485-max-consecutive-ones](https://github.com/SubashSK777/My_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/SubashSK777/My_LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/SubashSK777/My_LeetCode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SubashSK777/My_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/SubashSK777/My_LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubashSK777/My_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/SubashSK777/My_LeetCode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
