@@ -14,6 +14,7 @@
 | [0605-can-place-flowers](https://github.com/SubashSK777/My_LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SubashSK777/My_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -22,12 +23,14 @@
 | [0049-group-anagrams](https://github.com/SubashSK777/My_LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SubashSK777/My_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SubashSK777/My_LeetCode/tree/master/0242-valid-anagram) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SubashSK777/My_LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SubashSK777/My_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SubashSK777/My_LeetCode/tree/master/0242-valid-anagram) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -52,6 +55,7 @@
 | [0344-reverse-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SubashSK777/My_LeetCode/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/SubashSK777/My_LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
