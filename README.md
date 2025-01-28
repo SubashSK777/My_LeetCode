@@ -78,6 +78,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SubashSK777/My_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/SubashSK777/My_LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubashSK777/My_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/SubashSK777/My_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/SubashSK777/My_LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SubashSK777/My_LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SubashSK777/My_LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/SubashSK777/My_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
