@@ -7,6 +7,5 @@ class Solution:
             if diff in map:
                 return [map[diff], i]
             map[num] = i
-
         return []
         
