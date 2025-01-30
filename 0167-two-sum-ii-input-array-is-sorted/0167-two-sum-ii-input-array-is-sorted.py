@@ -1,15 +1,9 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        l = 0
-        r = len(numbers) - 1
+        map = {}
 
-        while l < r:
-            if numbers[l] + numbers[r] == target:
-                return [l + 1, r + 1]
-            elif numbers[l] + numbers[r] < target:
-                l += 1
-            else:
-                r -= 1
-
-            
+        for i , num in enumerate(numbers):
+            if target - num in map:
+                return [map[target - num] + 1, i + 1]
+            map[num] = i
         
