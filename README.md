@@ -96,6 +96,7 @@
 | [0009-palindrome-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SubashSK777/My_LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/SubashSK777/My_LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Prefix Sum
 |  |
 | ------- |
