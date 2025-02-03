@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SubashSK777/My_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SubashSK777/My_LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SubashSK777/My_LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SubashSK777/My_LeetCode/tree/master/0125-valid-palindrome) |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SubashSK777/My_LeetCode/tree/master/0155-min-stack) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SubashSK777/My_LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
