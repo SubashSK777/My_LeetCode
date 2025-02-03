@@ -1,16 +1,15 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        
-        d = {'{':'}', '(':')', '[':']'}
         stack = []
+
+        map = {'(':')' , '[':']' , '{' : '}' }
+
         for i in s:
-            if i in d:
+            if i in map:
                 stack.append(i)
-            elif len(stack) == 0 or d[stack.pop()] != i:
+
+            elif len(stack) == 0 or map[stack.pop()] != i:
                 return False
+
         return len(stack) == 0
-
-
-            
-
-     
+                
