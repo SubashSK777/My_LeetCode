@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/SubashSK777/My_LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SubashSK777/My_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SubashSK777/My_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/SubashSK777/My_LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/SubashSK777/My_LeetCode/tree/master/0792-binary-search) |
@@ -39,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/SubashSK777/My_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SubashSK777/My_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0496-next-greater-element-i) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -137,6 +139,7 @@
 | [0020-valid-parentheses](https://github.com/SubashSK777/My_LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SubashSK777/My_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SubashSK777/My_LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -145,4 +148,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SubashSK777/My_LeetCode/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
