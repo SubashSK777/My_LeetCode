@@ -3,9 +3,10 @@ class Solution:
         map = {}
 
         for i, num in enumerate(nums):
-            diff = target - num
-            if diff in map:
-                return [map[diff], i]
+            comp = target - num
+            if comp in map:
+                return [map[comp], i]
             map[num] = i
+
         return []
         
