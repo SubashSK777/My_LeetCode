@@ -25,6 +25,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/SubashSK777/My_LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SubashSK777/My_LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1364-tuple-with-same-product](https://github.com/SubashSK777/My_LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SubashSK777/My_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SubashSK777/My_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -42,6 +43,7 @@
 | [0268-missing-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SubashSK777/My_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0496-next-greater-element-i) |
+| [1364-tuple-with-same-product](https://github.com/SubashSK777/My_LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SubashSK777/My_LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
@@ -158,5 +160,6 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/SubashSK777/My_LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SubashSK777/My_LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
