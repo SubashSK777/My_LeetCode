@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/SubashSK777/My_LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SubashSK777/My_LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/SubashSK777/My_LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/SubashSK777/My_LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SubashSK777/My_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SubashSK777/My_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SubashSK777/My_LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/SubashSK777/My_LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SubashSK777/My_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SubashSK777/My_LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
