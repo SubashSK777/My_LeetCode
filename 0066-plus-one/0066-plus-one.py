@@ -9,14 +9,7 @@ class Solution:
         res //= 10
         res += 1
         
-        res = str(res)
-
-        sol = []
-
-        for i in res:
-            sol.append(int(i))
-
-        return sol
+        return list(int(i) for i in str(res))
 
 
 
