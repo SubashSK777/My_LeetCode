@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SubashSK777/My_LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SubashSK777/My_LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/SubashSK777/My_LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SubashSK777/My_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SubashSK777/My_LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/SubashSK777/My_LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/SubashSK777/My_LeetCode/tree/master/0066-plus-one) |
@@ -95,6 +96,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SubashSK777/My_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SubashSK777/My_LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SubashSK777/My_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/SubashSK777/My_LeetCode/tree/master/0162-find-peak-element) |
