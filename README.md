@@ -50,6 +50,7 @@
 | [1364-tuple-with-same-product](https://github.com/SubashSK777/My_LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SubashSK777/My_LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/SubashSK777/My_LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SubashSK777/My_LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SubashSK777/My_LeetCode/tree/master/0155-min-stack) |
+| [2434-design-a-number-container-system](https://github.com/SubashSK777/My_LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Trie
 |  |
 | ------- |
@@ -174,4 +176,12 @@
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SubashSK777/My_LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/SubashSK777/My_LeetCode/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/SubashSK777/My_LeetCode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
