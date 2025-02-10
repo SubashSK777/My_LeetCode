@@ -6,5 +6,5 @@ class Solution:
                 if stack:
                     stack.pop()
             else:
-                stack.append(c)
-        return "".join(stack)
+                stack.append(c) 
+        return ''.join(stack)       
