@@ -79,6 +79,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SubashSK777/My_LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/SubashSK777/My_LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SubashSK777/My_LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SubashSK777/My_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/SubashSK777/My_LeetCode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
@@ -158,6 +159,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SubashSK777/My_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SubashSK777/My_LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0496-next-greater-element-i) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SubashSK777/My_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/SubashSK777/My_LeetCode/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -181,6 +183,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SubashSK777/My_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SubashSK777/My_LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/SubashSK777/My_LeetCode/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
