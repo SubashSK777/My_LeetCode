@@ -1,17 +1,24 @@
 class Solution:
-    def getSum(self, n: int) -> int:
-        return sum(int(digit) for digit in str(n))
 
-    def maximumSum(self, nums: list[int]) -> int:
-        num_map = defaultdict(list)
-        for num in nums:
-            digit_sum = self.getSum(num)
-            heapq.heappush(num_map[digit_sum], -num)
+    def sumDigits(self, num):
+        return sum(int(digits) for digits in str(num))
 
+
+
+    def maximumSum(self, nums: List[int]) -> int:
+        h_map = {}
         max_sum = -1
-        for heap in num_map.values():
-            if len(heap) < 2:
-                continue
-            max_sum = max(max_sum, -heapq.heappop(heap) - heapq.heappop(heap))
+
+        for num in nums:
+            digit_sum = self.sumDigits(num)
+
+            if digit_sum in h_map:
+                max_sum = max(max_sum, h_map[digit_sum] + num)
+                h_map[digit_sum] = max(h_map[digit_sum], num)
+            else:
+                h_map[digit_sum] = num
 
         return max_sum
+
+        
+        
