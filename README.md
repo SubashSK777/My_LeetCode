@@ -161,6 +161,7 @@
 | [0020-valid-parentheses](https://github.com/SubashSK777/My_LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SubashSK777/My_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SubashSK777/My_LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/SubashSK777/My_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SubashSK777/My_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/SubashSK777/My_LeetCode/tree/master/3447-clear-digits) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SubashSK777/My_LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/SubashSK777/My_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2434-design-a-number-container-system](https://github.com/SubashSK777/My_LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Trie
 |  |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/SubashSK777/My_LeetCode/tree/master/2434-design-a-number-container-system) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SubashSK777/My_LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
