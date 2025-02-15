@@ -239,20 +239,24 @@
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
 | [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
 | [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
 | [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
