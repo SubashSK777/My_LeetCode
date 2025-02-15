@@ -238,10 +238,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
+| [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
+| [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
+| [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Data Stream
 |  |
 | ------- |
