@@ -89,6 +89,7 @@
 | [1894-merge-strings-alternately](https://github.com/SubashSK777/My_LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SubashSK777/My_LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SubashSK777/My_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SubashSK777/My_LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/SubashSK777/My_LeetCode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SubashSK777/My_LeetCode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/SubashSK777/My_LeetCode/tree/master/0605-can-place-flowers) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SubashSK777/My_LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/SubashSK777/My_LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SubashSK777/My_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SubashSK777/My_LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/SubashSK777/My_LeetCode/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -270,5 +273,6 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/SubashSK777/My_LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SubashSK777/My_LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/SubashSK777/My_LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SubashSK777/My_LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
