@@ -58,6 +58,7 @@
 | [0496-next-greater-element-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0496-next-greater-element-i) |
 | [1160-letter-tile-possibilities](https://github.com/SubashSK777/My_LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SubashSK777/My_LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SubashSK777/My_LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/SubashSK777/My_LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -196,6 +197,7 @@
 | [0155-min-stack](https://github.com/SubashSK777/My_LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SubashSK777/My_LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SubashSK777/My_LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SubashSK777/My_LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/SubashSK777/My_LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Trie
@@ -255,23 +257,27 @@
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
 | [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
 | [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
 | [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Data Stream
 |  |
