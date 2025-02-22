@@ -89,6 +89,7 @@
 | [0344-reverse-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SubashSK777/My_LeetCode/tree/master/0392-is-subsequence) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SubashSK777/My_LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/SubashSK777/My_LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SubashSK777/My_LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -257,6 +258,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
 | [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -264,6 +266,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
 | [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -277,6 +280,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
 | [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Data Stream
