@@ -31,6 +31,7 @@
 | [0792-binary-search](https://github.com/SubashSK777/My_LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SubashSK777/My_LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/SubashSK777/My_LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/SubashSK777/My_LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SubashSK777/My_LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SubashSK777/My_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -56,6 +57,7 @@
 | [0268-missing-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SubashSK777/My_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0496-next-greater-element-i) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SubashSK777/My_LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SubashSK777/My_LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -258,6 +260,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
 | [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -280,6 +283,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/0100-same-tree) |
 | [0904-leaf-similar-trees](https://github.com/SubashSK777/My_LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -296,4 +300,8 @@
 | [2107-find-unique-binary-string](https://github.com/SubashSK777/My_LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SubashSK777/My_LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SubashSK777/My_LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
