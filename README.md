@@ -18,6 +18,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SubashSK777/My_LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/SubashSK777/My_LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SubashSK777/My_LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/SubashSK777/My_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SubashSK777/My_LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SubashSK777/My_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/SubashSK777/My_LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SubashSK777/My_LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SubashSK777/My_LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/SubashSK777/My_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SubashSK777/My_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SubashSK777/My_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0268-missing-number) |
@@ -75,6 +77,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/SubashSK777/My_LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SubashSK777/My_LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/SubashSK777/My_LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SubashSK777/My_LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SubashSK777/My_LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0268-missing-number) |
@@ -219,6 +222,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SubashSK777/My_LeetCode/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/SubashSK777/My_LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SubashSK777/My_LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SubashSK777/My_LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -311,6 +315,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SubashSK777/My_LeetCode/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Graph
 |  |
