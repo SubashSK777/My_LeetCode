@@ -35,6 +35,7 @@
 | [1364-tuple-with-same-product](https://github.com/SubashSK777/My_LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SubashSK777/My_LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SubashSK777/My_LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SubashSK777/My_LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SubashSK777/My_LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SubashSK777/My_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -153,6 +154,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/SubashSK777/My_LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SubashSK777/My_LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/SubashSK777/My_LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SubashSK777/My_LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SubashSK777/My_LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Prefix Sum
@@ -160,10 +162,12 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SubashSK777/My_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SubashSK777/My_LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SubashSK777/My_LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/SubashSK777/My_LeetCode/tree/master/0392-is-subsequence) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SubashSK777/My_LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
