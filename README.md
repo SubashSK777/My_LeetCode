@@ -51,6 +51,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SubashSK777/My_LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3227-find-missing-and-repeated-values](https://github.com/SubashSK777/My_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SubashSK777/My_LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SubashSK777/My_LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/SubashSK777/My_LeetCode/tree/master/3429-special-array-i) |
@@ -78,6 +79,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SubashSK777/My_LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SubashSK777/My_LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/SubashSK777/My_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SubashSK777/My_LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
@@ -174,6 +176,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SubashSK777/My_LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SubashSK777/My_LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/SubashSK777/My_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -199,6 +202,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SubashSK777/My_LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/SubashSK777/My_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Interactive
 |  |
 | ------- |
