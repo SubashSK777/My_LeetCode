@@ -58,6 +58,7 @@
 | [3429-special-array-i](https://github.com/SubashSK777/My_LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SubashSK777/My_LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/SubashSK777/My_LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/SubashSK777/My_LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0907-koko-eating-bananas](https://github.com/SubashSK777/My_LeetCode/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SubashSK777/My_LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3643-zero-array-transformation-ii](https://github.com/SubashSK777/My_LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [0238-product-of-array-except-self](https://github.com/SubashSK777/My_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SubashSK777/My_LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SubashSK777/My_LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/SubashSK777/My_LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
