@@ -48,6 +48,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/SubashSK777/My_LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2448-count-number-of-bad-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SubashSK777/My_LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/SubashSK777/My_LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/SubashSK777/My_LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SubashSK777/My_LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -214,6 +215,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SubashSK777/My_LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SubashSK777/My_LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SubashSK777/My_LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/SubashSK777/My_LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/SubashSK777/My_LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SubashSK777/My_LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Matrix
@@ -230,6 +232,7 @@
 | ------- |
 | [0136-single-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0268-missing-number) |
+| [2478-longest-nice-subarray](https://github.com/SubashSK777/My_LeetCode/tree/master/2478-longest-nice-subarray) |
 ## Stack
 |  |
 | ------- |
