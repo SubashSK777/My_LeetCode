@@ -56,6 +56,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/SubashSK777/My_LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SubashSK777/My_LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SubashSK777/My_LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SubashSK777/My_LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/SubashSK777/My_LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SubashSK777/My_LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -236,6 +237,7 @@
 | [0136-single-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SubashSK777/My_LeetCode/tree/master/0268-missing-number) |
 | [2478-longest-nice-subarray](https://github.com/SubashSK777/My_LeetCode/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SubashSK777/My_LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SubashSK777/My_LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Stack
 |  |
@@ -373,6 +375,7 @@
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SubashSK777/My_LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Memoization
 |  |
 | ------- |
@@ -381,4 +384,8 @@
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/SubashSK777/My_LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SubashSK777/My_LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
