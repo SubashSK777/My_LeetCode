@@ -55,6 +55,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/SubashSK777/My_LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SubashSK777/My_LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SubashSK777/My_LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2681-put-marbles-in-bags](https://github.com/SubashSK777/My_LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SubashSK777/My_LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SubashSK777/My_LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -110,6 +111,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SubashSK777/My_LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SubashSK777/My_LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SubashSK777/My_LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/SubashSK777/My_LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/SubashSK777/My_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SubashSK777/My_LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/SubashSK777/My_LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -170,6 +172,7 @@
 | [0011-container-with-most-water](https://github.com/SubashSK777/My_LeetCode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/SubashSK777/My_LeetCode/tree/master/0605-can-place-flowers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SubashSK777/My_LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2681-put-marbles-in-bags](https://github.com/SubashSK777/My_LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SubashSK777/My_LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Search
 |  |
@@ -314,6 +317,7 @@
 | [2434-design-a-number-container-system](https://github.com/SubashSK777/My_LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SubashSK777/My_LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SubashSK777/My_LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/SubashSK777/My_LeetCode/tree/master/2681-put-marbles-in-bags) |
 ## Ordered Set
 |  |
 | ------- |
