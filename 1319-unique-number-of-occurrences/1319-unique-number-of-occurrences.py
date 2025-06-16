@@ -11,8 +11,6 @@ class Solution:
         res = set()
 
         for i in hm.values():
-            if i in res:
-                return False
-            else:
-                res.add(i)
-        return True
+            res.add(i)
+
+        return len(res) == len(set(arr))
