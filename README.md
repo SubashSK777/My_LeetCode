@@ -136,6 +136,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/SubashSK777/My_LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/SubashSK777/My_LeetCode/tree/master/0874-backspace-string-compare) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SubashSK777/My_LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SubashSK777/My_LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SubashSK777/My_LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -168,6 +169,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SubashSK777/My_LeetCode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/SubashSK777/My_LeetCode/tree/master/0567-permutation-in-string) |
+| [0874-backspace-string-compare](https://github.com/SubashSK777/My_LeetCode/tree/master/0874-backspace-string-compare) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SubashSK777/My_LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/SubashSK777/My_LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SubashSK777/My_LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -284,6 +286,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/SubashSK777/My_LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/SubashSK777/My_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SubashSK777/My_LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/SubashSK777/My_LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SubashSK777/My_LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SubashSK777/My_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SubashSK777/My_LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -321,6 +324,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/SubashSK777/My_LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/SubashSK777/My_LeetCode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SubashSK777/My_LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SubashSK777/My_LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/SubashSK777/My_LeetCode/tree/master/2551-apply-operations-to-an-array) |
