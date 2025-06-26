@@ -3,10 +3,7 @@ class Solution {
         int i = 0, j = 0;
 
         int l_w1 = word1.length();
-
         int l_w2 = word2.length();
-
-        Scanner sc = new Scanner(System.in);
 
         StringBuilder sb = new StringBuilder();
 
